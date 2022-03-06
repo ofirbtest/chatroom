@@ -31,3 +31,7 @@ what is faster a ferrari or lambo ?
 is avocado a fruit ? 
 ```
 
+Todos:
+finish clean up,
+move sounds from images to assets and update build,
+make the avatar consistent.
